@@ -1,0 +1,20 @@
+This is a simple GUI based voice calculator which can perform various calculations such as:-
+
+>>> addition, subtraction,division,multiplication,factorial,power,log,square root,trigo fucntions
+
+Example1:- add 1 plus 2 plus 3 plus 4 plus 5 
+
+Example2:- multiply 2 into 3 into 4
+
+Example3:- log of 1000 base 10
+
+Example4:- 2 raised 10
+
+Example5:- sin90 #Takes angle in degrees
+
+For more commands check out the coding!
+
+U.I includes Dark and Light themes with Listening... animation
+
+Requires an active internet connection for speech_recognition to work
+
